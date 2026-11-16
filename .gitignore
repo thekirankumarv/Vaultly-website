@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+next-env.d.ts
+public/shots
+public/og.png
+public/qr.svg
+public/icon.webp
+app/icon.png
+app/apple-icon.png
+public/samples
+tsconfig.tsbuildinfo
