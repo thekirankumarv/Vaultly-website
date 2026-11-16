@@ -3,7 +3,7 @@ import QRCode from 'qrcode';
 import sharp from 'sharp';
 
 const SRC = 'screenshots';
-const SITE = process.env.VERCEL ? 'https://vaultlyapp.vercel.app/' : 'https://thekirankumarv.github.io/Vaultly-website/';
+const SITE = process.env.VERCEL ? 'https://getvaultly.vercel.app/' : 'https://thekirankumarv.github.io/Vaultly-website/';
 
 const webp = async (dir, out) => {
   await mkdir(out, { recursive: true });

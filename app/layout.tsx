@@ -6,7 +6,7 @@ const display = Space_Grotesk({ subsets: ['latin'], variable: '--font-display', 
 const body = Inter({ subsets: ['latin'], variable: '--font-body' });
 const mono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-mono', weight: ['500', '600'] });
 
-const SITE = process.env.VERCEL ? 'https://vaultlyapp.vercel.app/' : 'https://thekirankumarv.github.io/Vaultly-website/';
+const SITE = process.env.VERCEL ? 'https://getvaultly.vercel.app/' : 'https://thekirankumarv.github.io/Vaultly-website/';
 const title = 'Vaultly: cards and documents wallet for Android';
 const description = 'Payment cards, ID cards and documents for you and your family, read and encrypted on your phone. Fingerprint to reveal, encrypted backups, Ask Vaultly. Free, no ads, no sign-up.';
 
