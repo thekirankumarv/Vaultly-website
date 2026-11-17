@@ -86,7 +86,7 @@ export const FEATURES: { icon: LucideIcon; title: string; body: string; color: s
   },
   { icon: ShieldOff, title: 'Screenshots blocked', body: 'Android blanks the screen while card details are showing.', color: '#FF6B8B' },
   { icon: Copy, title: 'One-tap copy', body: 'Number, name, expiry, CVV or any detail. Sensitive copies stay out of the clipboard preview.', color: '#22D3EE' },
-  { icon: Share2, title: 'Share as PDF or image', body: 'Whatever you added it as. Share a card with the number masked or in full, never the CVV.', color: '#FFB547' },
+  { icon: Share2, title: 'Share as PDF or image', body: 'Whatever you added it as, both sides in one share, saved straight to Downloads. Share a card with the number masked or in full, never the CVV.', color: '#FFB547' },
   { icon: BellRing, title: 'Expiring soon', body: 'Validity dates are read for you, and Home shows what runs out next.', color: '#2EE59D' },
   {
     icon: FolderLock,
